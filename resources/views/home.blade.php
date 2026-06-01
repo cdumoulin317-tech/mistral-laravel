@@ -123,7 +123,7 @@
 <div class="section">
     <h3>Bienvenue dans l’univers de la Team Mistral</h3>
     <p>
-        Nous venons de créer la team et notre objectif est clair : progresser en TSS et monter en SQB.  
+        Nous venons de créer la team et notre objectif est clair : progresser et s'imposer en TSS et monter en SQB.  
         Nous sommes accueillants, motivés, et tous les joueurs à partir du BR 4.0 sont les bienvenus.
     </p>
 </div>
